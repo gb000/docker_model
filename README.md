@@ -12,4 +12,7 @@
 ```bash
 ./down.sh
 ```
-
+* Attach to container bash
+```bash
+docker exec -it docker_model_default bash
+```
